@@ -1,0 +1,12 @@
+Libellé,# Echantillons,Moyenne,Médiane,90% centile,95% centile,99% centile,Min,Max,% Erreur,Débit,Ko/sec reçus,Ko/sec émis
+https://fr.mail.yahoo.com/,10,1108,1123,1407,1407,1465,733,1465,"0,000%","4,66636","1022,52","17,67"
+https://udc.yahoo.com/v2/public/yql?yhlVer=2&yhlClient=rapid&yhlS=794204018&yhlCT=2&yhlBTMS=1654882910836&yhlClientVer=3.53.30&yhlRnd=9nfvvTcoCl1uuYF8&yhlCompressed=0,10,442,427,514,514,518,365,518,"0,000%","7,85546","4,60","23,79"
+https://login.yahoo.com/?.src=ym&pspid=159600001&activity=mail-direct&.lang=fr-FR&.intl=fr&.done=https%3A%2F%2Ffr.mail.yahoo.com%2Fd,10,348,324,389,389,395,310,395,"0,000%","7,81861","17,20","18,78"
+https://login.yahoo.com/account/challenge/password?pspid=159600001&activity=mail-direct&.lang=fr-FR&.intl=fr&src=ym&done=https%3A%2F%2Ffr.mail.yahoo.com%2Fd&sessionIndex=Qg--&acrumb=Mu54gfoy&display=login&authMechanism=primary,20,952,936,1228,1245,1263,649,1263,"0,000%","2,93772","1042,60","19,23"
+https://udc.yahoo.com/v2/public/yql?yhlVer=2&yhlClient=rapid&yhlS=794204019&yhlCT=2&yhlBTMS=1654882914856&yhlClientVer=3.53.30&yhlRnd=vWNbUKYVF4PdUdm4&yhlCompressed=0,10,124,121,134,134,159,110,159,"0,000%","2,27273","1,33","7,83"
+https://udc.yahoo.com/v2/public/yql?yhlVer=2&yhlClient=rapid&yhlS=794204015&yhlCT=2&yhlBTMS=1654882917355&yhlClientVer=3.53.30&yhlRnd=XZx8E9wWuE0N3n2z&yhlCompressed=0,10,120,117,131,131,136,107,136,"0,000%","2,16779","1,27","7,87"
+https://login.yahoo.com/account/challenge/phone-verify?pspid=159600001&activity=mail-direct&.lang=fr-FR&.intl=fr&src=ym&done=https%3A%2F%2Ffr.mail.yahoo.com%2Fd&acrumb=Mu54gfoy&display=login&authMechanism=primary&sessionIndex=Qg--&eid=3650,20,773,753,826,846,942,698,942,"0,000%","1,70445","25,69","12,77"
+https://udc.yahoo.com/v2/public/yql?yhlVer=2&yhlClient=rapid&yhlS=794204015&yhlCT=2&yhlBTMS=1654882921709&yhlClientVer=3.53.30&yhlRnd=jg1KLHfMlXCNssL1&yhlCompressed=0,10,122,122,131,131,152,107,152,"0,000%","1,27681","0,75","4,65"
+https://udc.yahoo.com/v2/public/yql?yhlVer=2&yhlClient=rapid&yhlS=794204015&yhlCT=2&yhlBTMS=1654882924378&yhlClientVer=3.53.30&yhlRnd=zEay4eyW1L3jsZqZ&yhlCompressed=0,10,120,119,132,132,132,108,132,"0,000%",",98658","0,58","3,59"
+Test,10,5837,5744,6153,6153,6154,5466,6154,"0,000%",",56951","549,12","29,42"
+TOTAL,120,972,518,1376,5737,6153,107,6154,"0,000%","6,83410","1098,25","58,84"
